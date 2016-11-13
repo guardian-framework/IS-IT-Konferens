@@ -93,7 +93,7 @@ Nedan följer lite inspiration till intressanta och aktuella ämnen att "hacka" 
 #### IoT
 -	http://nodered.org/
 -	https://cloud.google.com/solutions/architecture/real-time-stream-processing-iot
--	https://www.sitepoint.com/forecasting-weather-with-ibm-watson-bluemix-raspberry-pi/?utm_source=sitepoint&utm_medium=relatedinline&utm_term=&utm_campaign=relatedauthor 
+-	https://www.sitepoint.com/forecasting-weather-with-ibm-watson-bluemix-raspberry-pi/ 
 
 #### Intressanta API:er
 -	http://www.programmableweb.com/news/50-interesting-apis-added-to-programmableweb-2015/brief/2016/01/04 
