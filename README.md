@@ -20,6 +20,7 @@ Som Connor MacLeod sa "There can be only one"!
 |    19:30    |         Incheckade   rum        |       Hotellet         |
 |    19:30    |              Middag             |  Konferensanläggningen |
 |    01:00    |    Baren & Lokalerna stänger    |                        |
+|             |            **Dag 2**            |                        |
 |    07:00    |             Frukost             |        Hotellet        |
 |    08:30    |          Utcheckade rum         |       Hotellet         |
 |    08:30    |       Extern   inspiratör       |    Konferenslokalen    |
