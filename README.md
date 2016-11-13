@@ -50,3 +50,51 @@ Nedan följer lite inspiration till intressanta och aktuella ämnen att "hacka" 
 | SÖKNING SOM TJÄNST         | [Algolia Instant Search on your Magento Store](https://youtu.be/DUuv9ALS5cM) | [Sök efter skådespelare](https://www.algolia.com/doc/guides/getting-started/quick-start) | [EU-sanktionslistan som tjänst](http://www.fi.se/Tillsyn/Sanktioner/EU-sanktioner/) | [Utöka tjänsten för yrkeskod med en feedback loop för kontinuerliga förbättringar utifrån faktiskt val i träfflistan](https://www.codementor.io/php/tutorial/how-to-build-a-search-engine-algolia) |
 | SÄKERHET  | [The Biggest Security Threats We’ll Face in 2016](https://www.wired.com/2016/01/the-biggest-security-threats-well-face-in-2016/) | [Kryptera trafiken till en idag icke krypterad webbplats](https://kryptera.se/gratis-ssl-certifikat-fran-lets-encrypt/) | [Skanna kod efter SSH-nycklar, tillstånds polletter, privata nycklar m.m.](https://thoughtworks.github.io/talisman/) | [Maskinellt bedöma om en uppladdad bild är manipulerad](https://photography.tutsplus.com/articles/fakes-frauds-and-forgeries-how-to-detect-image-manipulation--cms-22230) |
 
+### Ytterligare inspiration
+
+#### Konverserande gränssnitt (ChatBot) både för tal och text
+-	https://blog.hartleybrody.com/fb-messenger-bot/
+-	https://developers.facebook.com/docs/messenger-platform/quickstart
+-	https://www.sitepoint.com/how-to-build-your-own-ai-assistant-using-api-ai/ 
+-	https://docs.api.ai/docs/slack-webhook-integration-guideline 
+-	https://stanfy.com/blog/advanced-natural-language-processing-tools-for-bot-makers/ 
+-	https://messengerplatform.fb.com/
+-	https://www.gupshup.io/developer/home
+-	https://botwiki.org/
+-	https://botmakers.org/
+-	http://blogs.aspect.com/bot-framework-s-comparison/
+-	http://www.hongkiat.com/blog/tools-to-build-chatbots/ 
+-	https://hubot.github.com/
+-	https://www.sitepoint.com/how-to-build-your-own-ai-assistant-using-api-ai/ 
+-	https://www.sitepoint.com/five-simple-ways-to-build-artificial-intelligence-in-2016/ 
+-	https://wit.ai/ 
+-	https://youtu.be/spj9YOsKKXc 
+-	https://smooch.io/ 
+
+#### Förenkla vardagen med ChatOps
+-	https://www.pagerduty.com/blog/what-is-chatops/ 
+-	http://nordicapis.com/12-frameworks-to-build-chatops-bots/
+
+#### Maskininlärning för t.ex. Texttolkning, Bildtolkning eller Big Data analys
+-	https://cloud.google.com/products/machine-learning/
+-	https://aws.amazon.com/machine-learning/
+-	http://www.butleranalytics.com/10-machine-learning-as-a-service-platforms/
+-	https://azure.microsoft.com/en-us/services/stream-analytics/
+-	https://cloud.google.com/prediction/ 
+-	https://cloud.google.com/ml/docs/tutorials/samples
+-	http://cloudacademy.com/blog/google-vision-api-image-analysis/
+-	https://cloud.google.com/vision/
+-	https://github.com/GoogleCloudPlatform/dotnet-docs-samples/tree/master/vision/textDetection/
+
+#### MashUps av publika API
+-	https://www.trafiklab.se/
+
+#### IoT
+-	http://nodered.org/
+-	https://cloud.google.com/solutions/architecture/real-time-stream-processing-iot
+-	https://www.sitepoint.com/forecasting-weather-with-ibm-watson-bluemix-raspberry-pi/?utm_source=sitepoint&utm_medium=relatedinline&utm_term=&utm_campaign=relatedauthor 
+
+#### Intressanta API:er
+-	http://www.programmableweb.com/news/50-interesting-apis-added-to-programmableweb-2015/brief/2016/01/04 
+-	http://www.creativebloq.com/web-design/apis-developers-need-know-121518469 
+
